@@ -1,7 +1,7 @@
 
 # Andy Nguyen's Portfolio
 
-I am a computer engineering major at CSUF and I plan on graduating in 2028.
+I am a computer engineering major at CSUF and I plan to graduate in 2028
 
 ## Favorite CPSC 120L Labs
 
@@ -13,4 +13,6 @@ This was another lab that I enjoyed and is my second favorite mainly because of 
 
 Lab 3, part 2
 This lab is my third most favorite lab and that is because it was very complex, using formulas like the Julian Day formula to determine dates between the number of days. This was in my opinion, probably the most time consuming lab because of the many math calculations that were needed. Although it was difficult, the lab taught me that there are multiple ways to code and using algorithms from mathematics can coexist with coding.
+
+
 
